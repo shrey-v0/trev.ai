@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "dotenv -- turbo run build",
+    "dev": "dotenv -- turbo run dev",
+    "lint": "turbo run lint",
+    "lint:strict": "eslint --max-warnings=0 apps/**/*.{ts,tsx}",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "format:check": "prettier -c \"**/*.{ts,tsx,md}\"",
+    "tsc": "tsc",
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "4.2.1",
+    "@trev/eslint-config": "workspace:*",
+    "@turbo/gen": "1.10.12",
+    "eslint": "8.50.0",
+    "prettier": "3.2.5",
+    "prettier-plugin-tailwindcss": "0.5.14",
+    "turbo": "1.10.12",
+    "typescript": "5.4.5"
+  },
+  "packageManager": "pnpm@9.1.0",
+  "name": "trev",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "packages/config/*"
+  ],
+  "dependencies": {
+    "dotenv-cli": "^7.4.2"
+  }
+}
