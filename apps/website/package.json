@@ -1,0 +1,51 @@
+{
+  "name": "trev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/tailwindcss": "^0.2.0",
+    "@tailwindcss/container-queries": "0.1.1",
+    "@tailwindcss/typography": "0.5.10",
+    "@tanstack/react-query": "^5.36.2",
+    "@tanstack/react-table": "8.10.3",
+    "@tremor/react": "3.13.3",
+    "@trev/api": "workspace:*",
+    "@trev/db": "workspace:*",
+    "@trev/ui": "workspace:*",
+    "@trpc/client": "10.45.1",
+    "@trpc/next": "10.45.1",
+    "@trpc/react-query": "10.45.1",
+    "@trpc/server": "10.45.1",
+    "boring-avatars": "^1.10.2",
+    "class-variance-authority": "0.7.0",
+    "clsx": "2.0.0",
+    "lucide-react": "0.279.0",
+    "next": "14.2.3",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "superjson": "1.13.3",
+    "tailwind-merge": "1.14.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "3.22.4"
+  },
+  "devDependencies": {
+    "@trev/eslint-config": "workspace:*",
+    "@trev/tsconfig": "workspace:*",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "10.4.19",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

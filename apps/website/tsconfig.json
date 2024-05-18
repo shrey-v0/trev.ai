@@ -1,0 +1,20 @@
+{
+  "extends": "@trev/tsconfig/nextjs.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "plugins": [{ "name": "next" }],
+    "strictNullChecks": true,
+    "strict": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/app/(app)/app/[teamspaceSlug]/(overview)/team-members/[id]/[id]"
+  ],
+  "exclude": ["node_modules"]
+}
