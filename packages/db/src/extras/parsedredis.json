@@ -1,0 +1,1717 @@
+[
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 74,
+    "event_type": "Commits",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PROpen",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 31,
+    "event_type": "PRComments",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "PRReviewed",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "PRMerged",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 48,
+    "event_type": "Commits",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "PROpen",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 37,
+    "event_type": "PRComments",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PRReviewed",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 20,
+    "event_type": "PRComments",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRReviewed",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 20,
+    "event_type": "PRComments",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRReviewed",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRMerged",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "PRComments",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRReviewed",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRMerged",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 41,
+    "event_type": "Commits",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PROpen",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 24,
+    "event_type": "PRComments",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "PRReviewed",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 57,
+    "event_type": "Commits",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 11,
+    "event_type": "PROpen",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 36,
+    "event_type": "PRComments",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PRReviewed",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRMerged",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 64,
+    "event_type": "Commits",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "PROpen",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 27,
+    "event_type": "PRComments",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "PRReviewed",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 11,
+    "event_type": "PRMerged",
+    "date": "2024-05-17 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 18,
+    "event_type": "PRComments",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRReviewed",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 13,
+    "event_type": "PRMerged",
+    "date": "2024-05-18 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 52,
+    "event_type": "Commits",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "PROpen",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 17,
+    "event_type": "PRComments",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRMerged",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 11,
+    "event_type": "PRMerged",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRComments",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRComments",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRMerged",
+    "date": "2024-05-19 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 47,
+    "event_type": "Commits",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRComments",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 20,
+    "event_type": "Commits",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PROpen",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRComments",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 16,
+    "event_type": "Commits",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PROpen",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PRComments",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 21,
+    "event_type": "Commits",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PROpen",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRComments",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRReviewed",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 37,
+    "event_type": "Commits",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 13,
+    "event_type": "PRComments",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 26,
+    "event_type": "Commits",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PROpen",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "PRComments",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 30,
+    "event_type": "Commits",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRComments",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRReviewed",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 55,
+    "event_type": "Commits",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRComments",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 16,
+    "event_type": "Commits",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PROpen",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 20,
+    "event_type": "PRComments",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRReviewed",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 49,
+    "event_type": "Commits",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PROpen",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 17,
+    "event_type": "PRComments",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRReviewed",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 41,
+    "event_type": "Commits",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRComments",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRReviewed",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "Commits",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 11,
+    "event_type": "PRComments",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-12 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 16,
+    "event_type": "Commits",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PROpen",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "PRComments",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRReviewed",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 50,
+    "event_type": "Commits",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PROpen",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PRComments",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 29,
+    "event_type": "Commits",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PROpen",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 27,
+    "event_type": "PRComments",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRReviewed",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 50,
+    "event_type": "Commits",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "PROpen",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 21,
+    "event_type": "PRComments",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "PRReviewed",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRMerged",
+    "date": "2024-05-16 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 24,
+    "event_type": "Commits",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PROpen",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "Commits",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "Commits",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRComments",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "Commits",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "PRComments",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 27,
+    "event_type": "Commits",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PROpen",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRComments",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRReviewed",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRMerged",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "Commits",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "PRComments",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PRReviewed",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRMerged",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 28,
+    "event_type": "Commits",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 5,
+    "event_type": "PROpen",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "PRComments",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-13 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 34,
+    "event_type": "Commits",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PROpen",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 13,
+    "event_type": "PRComments",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRMerged",
+    "date": "2024-05-14 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 47,
+    "event_type": "Commits",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PROpen",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 15,
+    "event_type": "PRComments",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRReviewed",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-15 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "Commits",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "PRComments",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-11 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 14,
+    "event_type": "Commits",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PROpen",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "PRComments",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRMerged",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 12,
+    "event_type": "Commits",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PROpen",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "Commits",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "Commits",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "Commits",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRComments",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "PRComments",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-08 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 8,
+    "event_type": "Commits",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 6,
+    "event_type": "Commits",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRMerged",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "Commits",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRMerged",
+    "date": "2024-05-09 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "Commits",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PROpen",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "Commits",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRComments",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 7,
+    "event_type": "Commits",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 4,
+    "event_type": "PRComments",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRReviewed",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "Commits",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRComments",
+    "date": "2024-05-06 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 3,
+    "event_type": "PRComments",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRReviewed",
+    "date": "2024-05-10 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 9,
+    "event_type": "Commits",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-07 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 10,
+    "event_type": "Commits",
+    "date": "2024-05-04 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-04 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRComments",
+    "date": "2024-05-04 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRComments",
+    "date": "2024-05-04 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRReviewed",
+    "date": "2024-05-04 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 2,
+    "event_type": "PRComments",
+    "date": "2024-05-05 00:00:00"
+  },
+  {
+    "user_id": 4,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-05 00:00:00"
+  },
+  {
+    "user_id": 2,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-20 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "Commits",
+    "date": "2024-05-05 00:00:00"
+  },
+  {
+    "user_id": 1,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PROpen",
+    "date": "2024-05-05 00:00:00"
+  },
+  {
+    "user_id": 3,
+    "teamspace_id": "1",
+    "value": 1,
+    "event_type": "PRMerged",
+    "date": "2024-05-20 00:00:00"
+  }
+]
