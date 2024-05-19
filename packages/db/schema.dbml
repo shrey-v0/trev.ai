@@ -1,0 +1,76 @@
+enum event_type {
+  PROpen
+  PRComments
+  PRReviewed
+  PRMerged
+  Commits
+  IncidentAlerts
+  IncidentsResolved
+}
+
+enum user_type {
+  Engineer
+  Manager
+}
+
+table AggregatedEvents {
+  id serial [pk, not null, increment]
+  user_id integer
+  teamspace_id integer
+  value integer
+  event_type event_type
+  date timestamp [not null, default: `now()`]
+}
+
+table EventMeta {
+  event_type event_type [pk, not null, unique]
+  teamspace_id integer
+  label varchar [not null]
+  fill_color varchar [not null]
+}
+
+table Events {
+  id serial [pk, not null, increment]
+  user_id integer
+  teamspace_id integer
+  key uuid [not null]
+  event_type event_type
+  timestamp timestamp [not null, default: `now()`]
+}
+
+table Teamspace {
+  id serial [pk, not null, increment]
+  tenant_id serial [not null, increment]
+  name varchar [not null]
+}
+
+table Tenant {
+  id serial [pk, not null, increment]
+  name varchar [not null]
+}
+
+table User {
+  id serial [pk, not null, increment]
+  teamspace_id integer
+  email varchar [not null, unique]
+  user_type user_type [not null]
+  created_at timestamp [not null, default: `now()`]
+}
+
+ref: AggregatedEvents.user_id > User.id
+
+ref: AggregatedEvents.teamspace_id > Teamspace.id
+
+ref: AggregatedEvents.event_type > EventMeta.event_type
+
+ref: EventMeta.teamspace_id > Teamspace.id
+
+ref: Events.user_id > User.id
+
+ref: Events.teamspace_id > Teamspace.id
+
+ref: Events.event_type > EventMeta.event_type
+
+ref: Teamspace.tenant_id > Tenant.id
+
+ref: User.teamspace_id > Teamspace.id
