@@ -11,6 +11,38 @@ Trev seeks to redefine the approach to Understanding and Optimizing Engineering 
 - Incidents dashboard focusing product health
 
 
+## Getting Started
+
+1. **Install Dependencies**: Run the following command at the root level to install all dependencies:
+
+    ```bash
+    pnpm install
+    ```
+
+2. **Set Environment Variables**: Add the following env `DATABASE_URL`, to your environment configuration (`neon database url`)
+
+3. **[Database Setup](https://github.com/shrey-v0/trev.ai/tree/master/packages/db#database-setup)**: 
+    - Navigate to the `packages/db` directory.
+    - Run the following commands to generate migrations, apply migrations, and seed the database:
+
+    ```bash
+    pnpm generate
+    pnpm migrate
+    pnpm seed
+    ```
+
+    For detailed instructions on database setup, refer to [Database Setup](https://github.com/shrey-v0/trev.ai/tree/master/packages/db#database-setup).
+
+4. **Spin up the turbo repo**:
+
+    ```bash
+    turbo dev
+    ```
+
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the dashboard.
+
+
 
 ## Key Concepts Involved
   
